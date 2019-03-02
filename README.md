@@ -3,9 +3,11 @@ Zugzielanzeiger für die Nenngröße H0
 Ansteuerung per Arduino Nano
 
 ## Zugzielanzeiger Bahnsteig
-Versionen:
-* S-Bahn Berlin (Deutsche Bahn) 
-* BVG (Berliner Verkehrsbetriebe)
+### Versionen
+| Unternehmen                     | Arduino                         | Original                        |
+| ------------------------------- | ------------------------------- | ------------------------------- |
+| S-Bahn Berlin (Deutsche Bahn)   | <img src="docs/media/zugzielanzeiger_db.png"> | |
+| BVG (Berliner Verkehrsbetriebe) | | |
 
 ### Display
 0.91 Zoll OLED Display
@@ -22,7 +24,8 @@ Versionen:
 | A4                 | SDA               |
 
 ## Abfahrtstafel Bahnhofsvorplatz
-Version Deutsche Bahn
+Versionen:
+* Deutsche Bahn
 
 ### Display
 Display: 1.8 Zoll TFT Display
